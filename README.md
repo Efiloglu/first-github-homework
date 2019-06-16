@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| your name | your emoji | your comments | | |
+| Mesut | :white_check_mark:  | homework is checked and OK |
 
 ___
 ___
