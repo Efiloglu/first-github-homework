@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Mesut | :+1:| homework is checked and OK |
+| Mesut | :+1:| homework is checked and OK | :green_heart: | Yes you homework Its ok..|
 
 ___
 ___
